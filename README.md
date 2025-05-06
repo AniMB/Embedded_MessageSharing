@@ -24,9 +24,9 @@ of length 254 defined by a MACRO.
 
 To compile using `g++`:
 ```bash
-g++ -std=c++17 -Wall -pthread Kepler_intro.cpp -o kepler_test
+g++ -std=c++17 -Wall -pthread message.cpp -o message_test
 ```
 To execute, Run: 
 ```bash
-./kepler_test
+./message_test
 ```
